@@ -47,6 +47,8 @@ When you're ready, create a **heading** (a heading is some text that is preceded
 
 Next, create a bulleted list of some of your favorite things about CS193 (if you don't have any, I'll be sad :( but try to make some up anyway).  Bulleted lists are a series of lines that each start with a `- ` followed by your text.  You can see an example in `index.md`.
 
+We have provided a simple Markdown syntax guide and other useful resources in the `index.md`. The syntax guide is in the code block, which begins and ends with ` ``` ` (three backticks or one for inline code block) and interprets text literally (*italicize syntax, not in code block* v.s. `*italicize syntax, in code block*`). Feel free to keep or delete the guide, but **make sure not to put actual website contents inside of the code block**.
+
 When you're done, commit your changes, just as you did above and you're done! **CONGRATULATIONS** you just completed your first CS193 homework :) Give yourself a pat on the back and bask in the glory of your brand-new fancy GitHub Website!
 
 ## Optional Extra - Change the Theme of Your Website
