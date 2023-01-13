@@ -6,7 +6,7 @@ Throughout this homework, you will create a personal GitHub account, use that Gi
 
 ## When is this due?
 
-This homework will be due Friday 9/2.
+Please refer to BrightSpace for the due date information.
 
 ## When will I know that I'm done
 
